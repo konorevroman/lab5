@@ -6,7 +6,7 @@
                 $servername = "localhost";
                 $username = "admin";
                 $password = "<e[nbR25642789";
-                $databasename = "test";
+                $databasename = "beauty-market";
 
 
                 $conn = new mysqli($servername, $username, $password, $databasename);
